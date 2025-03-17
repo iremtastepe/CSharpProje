@@ -1,0 +1,12 @@
+C:\Users\USER\Desktop\C#\GeleceğinNotUygulaması\GeleceğinNotUygulaması\bin\Debug\GeleceğinNotUygulaması.exe.config
+C:\Users\USER\Desktop\C#\GeleceğinNotUygulaması\GeleceğinNotUygulaması\bin\Debug\GeleceğinNotUygulaması.exe
+C:\Users\USER\Desktop\C#\GeleceğinNotUygulaması\GeleceğinNotUygulaması\bin\Debug\GeleceğinNotUygulaması.pdb
+C:\Users\USER\Desktop\C#\GeleceğinNotUygulaması\GeleceğinNotUygulaması\obj\Debug\GeleceğinNotUygulaması.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\C#\GeleceğinNotUygulaması\GeleceğinNotUygulaması\obj\Debug\GeleceğinNotUygulaması.Form1.resources
+C:\Users\USER\Desktop\C#\GeleceğinNotUygulaması\GeleceğinNotUygulaması\obj\Debug\GeleceğinNotUygulaması.Properties.Resources.resources
+C:\Users\USER\Desktop\C#\GeleceğinNotUygulaması\GeleceğinNotUygulaması\obj\Debug\GeleceğinNotUygulaması.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\C#\GeleceğinNotUygulaması\GeleceğinNotUygulaması\obj\Debug\GeleceğinNotUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\C#\GeleceğinNotUygulaması\GeleceğinNotUygulaması\obj\Debug\GeleceğinNotUygulaması.exe
+C:\Users\USER\Desktop\C#\GeleceğinNotUygulaması\GeleceğinNotUygulaması\obj\Debug\GeleceğinNotUygulaması.pdb
+C:\Users\USER\Desktop\C#\GeleceğinNotUygulaması\GeleceğinNotUygulaması\obj\Debug\GeleceğinNotUygulaması.Form2.resources
+C:\Users\USER\Desktop\C#\GeleceğinNotUygulaması\GeleceğinNotUygulaması\obj\Debug\GeleceğinNotUygulaması.Form3.resources
