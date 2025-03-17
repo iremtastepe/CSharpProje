@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\C#\toplantiuygulamasi\toplantiuygulamasi\bin\Debug\toplantiuygulamasi.exe.config
+C:\Users\USER\Desktop\C#\toplantiuygulamasi\toplantiuygulamasi\bin\Debug\toplantiuygulamasi.exe
+C:\Users\USER\Desktop\C#\toplantiuygulamasi\toplantiuygulamasi\bin\Debug\toplantiuygulamasi.pdb
+C:\Users\USER\Desktop\C#\toplantiuygulamasi\toplantiuygulamasi\obj\Debug\toplantiuygulamasi.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\C#\toplantiuygulamasi\toplantiuygulamasi\obj\Debug\toplantiuygulamasi.Form1.resources
+C:\Users\USER\Desktop\C#\toplantiuygulamasi\toplantiuygulamasi\obj\Debug\toplantiuygulamasi.Form2.resources
+C:\Users\USER\Desktop\C#\toplantiuygulamasi\toplantiuygulamasi\obj\Debug\toplantiuygulamasi.Form3.resources
+C:\Users\USER\Desktop\C#\toplantiuygulamasi\toplantiuygulamasi\obj\Debug\toplantiuygulamasi.Form4.resources
+C:\Users\USER\Desktop\C#\toplantiuygulamasi\toplantiuygulamasi\obj\Debug\toplantiuygulamasi.Form5.resources
+C:\Users\USER\Desktop\C#\toplantiuygulamasi\toplantiuygulamasi\obj\Debug\toplantiuygulamasi.Properties.Resources.resources
+C:\Users\USER\Desktop\C#\toplantiuygulamasi\toplantiuygulamasi\obj\Debug\toplantiuygulamasi.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\C#\toplantiuygulamasi\toplantiuygulamasi\obj\Debug\toplantiuygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\C#\toplantiuygulamasi\toplantiuygulamasi\obj\Debug\toplantiuygulamasi.exe
+C:\Users\USER\Desktop\C#\toplantiuygulamasi\toplantiuygulamasi\obj\Debug\toplantiuygulamasi.pdb
