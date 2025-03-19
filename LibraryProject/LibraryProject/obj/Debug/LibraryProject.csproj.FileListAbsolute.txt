@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\C#\LibraryProject\LibraryProject\bin\Debug\LibraryProject.exe.config
+C:\Users\USER\Desktop\C#\LibraryProject\LibraryProject\bin\Debug\LibraryProject.exe
+C:\Users\USER\Desktop\C#\LibraryProject\LibraryProject\bin\Debug\LibraryProject.pdb
+C:\Users\USER\Desktop\C#\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\C#\LibraryProject\LibraryProject\obj\Debug\LibraryProject.Form1.resources
+C:\Users\USER\Desktop\C#\LibraryProject\LibraryProject\obj\Debug\LibraryProject.Properties.Resources.resources
+C:\Users\USER\Desktop\C#\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\C#\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\C#\LibraryProject\LibraryProject\obj\Debug\LibraryProject.exe
+C:\Users\USER\Desktop\C#\LibraryProject\LibraryProject\obj\Debug\LibraryProject.pdb
